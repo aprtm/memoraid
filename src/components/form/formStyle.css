@@ -1,0 +1,7 @@
+.superForm_control--invalid {
+    border: solid red;
+}
+
+.superForm_form--invalid {
+    background-color: lavenderblush;
+}
